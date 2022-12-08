@@ -1,0 +1,1 @@
+Teste com Springboot, JSF, Bootstrap 5.0. Build com Maven.
